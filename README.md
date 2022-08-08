@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siyabonga Hlongwane, a Software Engineer (MEAN Stack).
 - 👀 I’m interested in Web Development and learning new technologies.
-- 🌱 I’m currently learning PHP, MYSQLi and Python.
+- 🌱 I’m currently learning PostgreSQL and Node red.
 - 💞️ I’m looking to collaborate on any related works.
 - 📫 How to reach me, email: siyabonga@webgooru.co.za, WhatsApp: +27670146942
 
